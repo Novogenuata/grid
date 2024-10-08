@@ -2,7 +2,7 @@ package com.example.grid
 
 
 data class Topic(
-    val title: Int,
+    val title: Int, //
     val availableCourses: Int,
     val imageResId: Int
 )
